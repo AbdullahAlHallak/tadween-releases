@@ -1,12 +1,12 @@
 # تدوين — Tadween
 
-تحويل الملفات الصوتية إلى نص بالعربية والإنجليزية، على الهاتف ودون إنترنت.
+تحويل الملفات الصوتية إلى نص بالعربية (الفصحى والعامية) والإنجليزية، على الهاتف ودون إنترنت.
 
 ## التنزيل
-**[⬇ تنزيل أحدث إصدار (Midad.apk)](https://github.com/AbdullahAlHallak/midad-releases/releases/latest/download/Midad.apk)**
+**[⬇ تنزيل أحدث إصدار (Tadween.apk)](https://github.com/AbdullahAlHallak/tadween-releases/releases/latest/download/Tadween.apk)**
 
-للهواتف القديمة ذات معالج ٣٢-بت: [Midad-old-phones.apk](https://github.com/AbdullahAlHallak/midad-releases/releases/latest/download/Midad-old-phones.apk)
+للهواتف القديمة ذات معالج ٣٢-بت: [Tadween-old-phones.apk](https://github.com/AbdullahAlHallak/tadween-releases/releases/latest/download/Tadween-old-phones.apk)
 
-> عند التثبيت قد يطلب أندرويد السماح بـ«التثبيت من مصادر غير معروفة» للمتصفح.
+> عند التثبيت قد يطلب أندرويد السماح بـ«التثبيت من مصادر غير معروفة» للمتصفح. بعدها تصلك التحديثات من داخل التطبيق.
 
-![مداد](midad-qr-mockup.png)
+![تدوين](tadween-poster.png)
